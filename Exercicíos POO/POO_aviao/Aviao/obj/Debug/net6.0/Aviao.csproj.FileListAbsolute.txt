@@ -1,0 +1,44 @@
+C:\Users\Aluno\Documents\Aviao\Aviao\bin\Debug\net6.0\Aviao.exe
+C:\Users\Aluno\Documents\Aviao\Aviao\bin\Debug\net6.0\Aviao.deps.json
+C:\Users\Aluno\Documents\Aviao\Aviao\bin\Debug\net6.0\Aviao.runtimeconfig.json
+C:\Users\Aluno\Documents\Aviao\Aviao\bin\Debug\net6.0\Aviao.dll
+C:\Users\Aluno\Documents\Aviao\Aviao\bin\Debug\net6.0\Aviao.pdb
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.dll
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\refint\Aviao.dll
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.pdb
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\Aviao.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Aviao\Aviao\obj\Debug\net6.0\ref\Aviao.dll
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\bin\Debug\net6.0\Aviao.exe
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\bin\Debug\net6.0\Aviao.deps.json
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\bin\Debug\net6.0\Aviao.runtimeconfig.json
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\bin\Debug\net6.0\Aviao.dll
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\bin\Debug\net6.0\Aviao.pdb
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.dll
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\refint\Aviao.dll
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.pdb
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\Aviao.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\SW_I-main\Aviao\Aviao\obj\Debug\net6.0\ref\Aviao.dll
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\bin\Debug\net6.0\Aviao.exe
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\bin\Debug\net6.0\Aviao.deps.json
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\bin\Debug\net6.0\Aviao.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\bin\Debug\net6.0\Aviao.dll
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\bin\Debug\net6.0\Aviao.pdb
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.dll
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\refint\Aviao.dll
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.pdb
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\Aviao.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\AULAS_SW-I-main\Exercicíos POO\POO_aviao\Aviao\obj\Debug\net6.0\ref\Aviao.dll

@@ -1,0 +1,30 @@
+C:\Users\Aluno\Documents\Conta\Conta\bin\Debug\net6.0\Conta.exe
+C:\Users\Aluno\Documents\Conta\Conta\bin\Debug\net6.0\Conta.deps.json
+C:\Users\Aluno\Documents\Conta\Conta\bin\Debug\net6.0\Conta.runtimeconfig.json
+C:\Users\Aluno\Documents\Conta\Conta\bin\Debug\net6.0\Conta.dll
+C:\Users\Aluno\Documents\Conta\Conta\bin\Debug\net6.0\Conta.pdb
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.dll
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\refint\Conta.dll
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.pdb
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\Conta.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Conta\Conta\obj\Debug\net6.0\ref\Conta.dll
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\bin\Debug\net6.0\Conta.exe
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\bin\Debug\net6.0\Conta.deps.json
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\bin\Debug\net6.0\Conta.runtimeconfig.json
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\bin\Debug\net6.0\Conta.dll
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\bin\Debug\net6.0\Conta.pdb
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.dll
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\refint\Conta.dll
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.pdb
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\Conta.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\Exercicíos POO\POO_conta\Conta\obj\Debug\net6.0\ref\Conta.dll
